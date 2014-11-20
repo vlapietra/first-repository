@@ -2,5 +2,5 @@
 
 - Fork project
 - Work on a new feature branch
-- do work
+- Do work
 - Send pull request
