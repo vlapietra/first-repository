@@ -1,4 +1,4 @@
 # Hello
 
-## Information
+## Personal Information
 - Vinny LaPietra
